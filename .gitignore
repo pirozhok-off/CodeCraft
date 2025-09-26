@@ -1,0 +1,33 @@
+```gitignore
+# Gradle
+.gradle/
+build/
+out/
+bin/
+
+# IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Minecraft
+run/
+eclipse/
+.mixin.out/
+
+# Other
+*.jar
+!gradle-wrapper.jar
