@@ -15,7 +15,7 @@
 
 ## Установка
 
-1. Скачайте последнюю версию мода из [Releases](https://github.com/pirozhok/CodeCraft/releases)
+1. Скачайте последнюю версию мода из [Releases](https://github.com/pirozhok-off/CodeCraft/releases)
 2. Поместите файл `.jar` в папку `mods`
 3. Запустите игру с установленным Forge
    P.s. мод написан на Forge 47.3.0 и тестировался на этой версии.
